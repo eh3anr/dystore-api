@@ -1,5 +1,5 @@
 {
-  "name": "dystcz/dystore-api",
+  "name": "eh3an/dystore-api",
   "description": "Dystore API layer for Lunar e-commerce package",
   "homepage": "https://github.com/dystcz/dystore",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "laravel-json-api/laravel": "^5.1",
     "laravel-json-api/non-eloquent": "^4.2",
     "laravel-json-api/hashids": "^3.2",
-    "lunarphp/lunar": "1.1.0"
+    "eh3an/lunar": "*"
   },
   "autoload": {
     "psr-4": {
